@@ -1,2 +1,4 @@
 # Example Repository
-sample repo, hello world!
+sample repo, hello my friend!
+
+file changed
